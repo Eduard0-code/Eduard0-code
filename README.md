@@ -49,7 +49,7 @@ Inglês (Avançado)
 Aplicação para gestão de treinos com timers automatizados para reduzir tempo ocioso entre séries.  
 - Hooks customizados e lógica assíncrona  
 - Totalmente responsiva (mobile-first)  
-- localStorage + deploy automático via GitHub Actions em cada push
+- localStorage pela praticidade do projeto.
 
 **2Money – JavaScript + CSS + HTML**  
 Plataforma de gestão financeira em grupo com fórum e gráficos.  
@@ -59,5 +59,5 @@ Plataforma de gestão financeira em grupo com fórum e gráficos.
 - Scrum, Kanban e UI/UX no Figma
 
 **Portfólio – React**  
-- Pipeline completa de CI/CD via GitHub Actions (100% de redução no tempo de deploy manual)  
+- Pipeline completa de CI/CD via GitHub Actions
 - Estrutura modular pronta para novos projetos
