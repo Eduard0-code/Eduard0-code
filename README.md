@@ -3,7 +3,7 @@
 **Belo Horizonte – MG**  
 📱 (31) 9 8650-1700  
 📧 [eduardocs0900@gmail.com](mailto:eduardocs0900@gmail.com)  
-🔗 [LinkedIn]([https://linkedin.com/in/eduardo-costa-silvaa](https://www.linkedin.com/in/eduardo-costa-silvaa/)) | [GitHub](https://github.com/Eduard0-code) | [Portfólio](https://eduard0-code.github.io/Portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-costa-silvaa/) | [GitHub](https://github.com/Eduard0-code) | [Portfólio](https://eduard0-code.github.io/Portfolio/)
 
 ---
 
