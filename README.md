@@ -1,63 +1,39 @@
-# EDUARDO COSTA SILVA
+# Olá, sou o Eduardo Silva! 👋
 
-**Belo Horizonte – MG**  
-📱 (31) 9 8650-1700  
-📧 [eduardocs0900@gmail.com](mailto:eduardocs0900@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-costa-silvaa/) | [GitHub](https://github.com/Eduard0-code) | [Portfólio](https://eduard0-code.github.io/Portfolio/)
+Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas) e desenvolvedor apaixonado por construir interfaces eficientes e infraestruturas robustas.
 
----
-
-### Objetivo
-**Estagiário de Desenvolvimento de Software / Front-End**
-
-### Resumo Profissional
-Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (2º período), com sólida base em desenvolvimento Front-End utilizando React e TypeScript.  
-Diferencio-me pelo domínio de infraestrutura e automação, possuindo certificações em Ansible, OpenShift AI e Linux (Red Hat).  
-
-Experiência prática na construção de SPAs com foco em performance, arquitetura modular e pipelines de CI/CD via GitHub Actions. Busco unir a excelência na interface do usuário com a eficiência da cultura DevOps.
+Minha principal força é unir o **Desenvolvimento Front-End** com uma mentalidade **DevOps**, garantindo que o código não apenas funcione bem no navegador, mas que também seja entregue com qualidade e automação.
 
 ---
 
-### Diferencial de Infraestrutura
-- **OpenShift AI (A1262F)** – 02/2026 (Credly)  
-- **Ansible Automation (DO457)** – 02/2026 (Credly)  
-- **System Administration I (RH124)** – 02/2026 (Credly)  
-- **Linux Fundamentals (RH104)** – 02/2026 (Credly)
+### 🚀 Stack Tecnológica
 
-### Formação Acadêmica
-**Tecnologia em Análise e Desenvolvimento de Sistemas**  
-PUC Minas | Previsão: 12/2027
+* **Front-End:** React, TypeScript, JavaScript, Vite, TailwindCSS.
+* **Testes & Qualidade:** Cypress, Jest.
+* **Infraestrutura & DevOps:** Docker, CI/CD (GitHub Actions), Linux (Red Hat).
+* **Ferramentas:** Git, Figma, Scrum/Kanban.
 
 ---
 
-### Habilidades Técnicas
+### 🛠 Destaques Técnicos & Certificações
+*Domino tecnologias que vão além do código, focando na automação e infraestrutura.*
 
-**Front-End**  
-• React • TypeScript • JavaScript • React-Router • Vite • TailwindCSS • Cypress • Jest • Git  
-
-**Arquitetura Web**  
-• SPA • Component Architecture • State Management (useState + Hooks customizados) • REST APIs • Next.js • Docker básico  
-
-**Idiomas**  
-Inglês (Avançado)
+- 🎓 **OpenShift AI & Ansible Automation** (Certificado Red Hat)
+- 🐧 **Linux System Administration** (RH124/RH104)
 
 ---
 
-### Projetos de Destaque
+### 💻 Projetos Principais
 
-**WKList – React + TypeScript**  
-Aplicação para gestão de treinos com timers automatizados para reduzir tempo ocioso entre séries.  
-- Hooks customizados e lógica assíncrona  
-- Totalmente responsiva (mobile-first)  
-- localStorage pela praticidade do projeto.
+* **[WKList](link-aqui)**: Gestão de treinos com foco em performance e lógica assíncrona. 
+    * *Stack:* React, TypeScript, Hooks customizados, Mobile-first.
+* **[2Money](link-aqui)**: Plataforma de gestão financeira colaborativa.
+    * *Destaque:* Autenticação, APIs REST, Gráficos dinâmicos (Charts.js) e metodologia Scrum.
+* **[Portfólio](link-aqui)**: Meu espaço pessoal com pipeline de CI/CD via GitHub Actions.
 
-**2Money – JavaScript + CSS + HTML**  
-Plataforma de gestão financeira em grupo com fórum e gráficos.  
-- Autenticação e registro com JSONServer  
-- Gráficos interativos (Charts.js)  
-- Gerenciamento de estado global + APIs REST  
-- Scrum, Kanban e UI/UX no Figma
+---
 
-**Portfólio – React**  
-- Pipeline completa de CI/CD via GitHub Actions
-- Estrutura modular pronta para novos projetos
+### 📬 Vamos conversar?
+Estou sempre aberto a trocar ideias sobre tecnologia, automação e desenvolvimento.
+
+[🔗 LinkedIn](https://www.linkedin.com/in/eduardo-costa-silvaa/) | [📧 E-mail](mailto:eduardocs0900@gmail.com)
