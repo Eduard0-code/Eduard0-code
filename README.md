@@ -1,4 +1,4 @@
-# Olá, sou o Eduardo Silva! 👋
+# Olá, sou o Eduardo Silva :D
 
 Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas) e desenvolvedor apaixonado por construir interfaces eficientes e infraestruturas robustas.
 
@@ -6,7 +6,7 @@ Minha principal força é unir o **Desenvolvimento Front-End** com uma mentalida
 
 ---
 
-### 🚀 Stack Tecnológica
+### Stack Tecnológica
 
 * **Front-End:** React, TypeScript, JavaScript, Vite, TailwindCSS.
 * **Testes & Qualidade:** Cypress, Jest.
@@ -15,15 +15,15 @@ Minha principal força é unir o **Desenvolvimento Front-End** com uma mentalida
 
 ---
 
-### 🛠 Destaques Técnicos & Certificações
+### Destaques Técnicos & Certificações
 *Domino tecnologias que vão além do código, focando na automação e infraestrutura.*
 
-- 🎓 **OpenShift AI & Ansible Automation** (Certificado Red Hat)
-- 🐧 **Linux System Administration** (RH124/RH104)
+-  **OpenShift AI & Ansible Automation** (Certificado Red Hat)
+-  **Linux System Administration** (RH124/RH104)
 
 ---
 
-### 💻 Projetos Principais
+### Projetos Principais
 
 * **[WKList](link-aqui)**: Gestão de treinos com foco em performance e lógica assíncrona. 
     * *Stack:* React, TypeScript, Hooks customizados, Mobile-first.
@@ -33,7 +33,7 @@ Minha principal força é unir o **Desenvolvimento Front-End** com uma mentalida
 
 ---
 
-### 📬 Vamos conversar?
+### Vamos conversar?
 Estou sempre aberto a trocar ideias sobre tecnologia, automação e desenvolvimento.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/eduardo-costa-silvaa/) | [📧 E-mail](mailto:eduardocs0900@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eduardo-costa-silvaa/) | [E-mail](mailto:eduardocs0900@gmail.com)
