@@ -25,11 +25,11 @@ Minha principal força é unir o **Desenvolvimento Front-End** com uma mentalida
 
 ### Projetos Principais
 
-* **[WKList](link-aqui)**: Gestão de treinos com foco em performance e lógica assíncrona. 
+* **[WKList](https://github.com/Eduard0-code/WorkoutPlayList)**: Gestão de treinos com foco em performance e lógica assíncrona. 
     * *Stack:* React, TypeScript, Hooks customizados, Mobile-first.
-* **[2Money](link-aqui)**: Plataforma de gestão financeira colaborativa.
+* **[2Money](https://github.com/Eduard0-code/Trabalho-Interdisciplinar---Entrega-final---Em-GRUPO)**: Plataforma de gestão financeira colaborativa.
     * *Destaque:* Autenticação, APIs REST, Gráficos dinâmicos (Charts.js) e metodologia Scrum.
-* **[Portfólio](link-aqui)**: Meu espaço pessoal com pipeline de CI/CD via GitHub Actions.
+* **[Portfólio](https://eduard0-code.github.io/Portfolio/)**: Meu espaço pessoal com pipeline de CI/CD via GitHub Actions.
 
 ---
 
