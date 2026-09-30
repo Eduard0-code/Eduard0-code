@@ -1,39 +1,54 @@
-# Olá, sou o Eduardo Silva :D
+# Eduardo Costa Silva
 
-Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas) e desenvolvedor apaixonado por construir interfaces eficientes e infraestruturas robustas.
+Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e desenvolvedor apaixonado por construir interfaces eficientes e infraestruturas robustas.
 
-Minha principal força é unir o **Desenvolvimento Front-End** com uma mentalidade **DevOps**, garantindo que o código não apenas funcione bem no navegador, mas que também seja entregue com qualidade e automação.
+Uno desenvolvimento Front-End e práticas DevOps para criar aplicações que funcionam bem no navegador e são entregues com qualidade, automação e consistência.
 
----
+## Stack tecnológica
 
-### Stack Tecnológica
-
-* **Front-End:** React, TypeScript, JavaScript, Vite, TailwindCSS.
-* **Testes & Qualidade:** Cypress, Jest.
-* **Infraestrutura & DevOps:** Docker, CI/CD (GitHub Actions), Linux (Red Hat).
-* **Ferramentas:** Git, Figma, Scrum/Kanban.
+- **Front-End:** React, TypeScript, JavaScript, Vite e Tailwind CSS
+- **Testes e qualidade:** Cypress e Jest
+- **Infraestrutura e DevOps:** Docker, CI/CD com GitHub Actions e Linux (Red Hat)
+- **Ferramentas e práticas:** Git, Figma, Scrum e Kanban
 
 ---
 
-### Destaques Técnicos & Certificações
-*Domino tecnologias que vão além do código, focando na automação e infraestrutura.*
+## Certificações e formação técnica
 
--  **OpenShift AI & Ansible Automation** (Certificado Red Hat)
--  **Linux System Administration** (RH124/RH104)
-
----
-
-### Projetos Principais
-
-* **[WKList]([https://github.com/Eduard0-code/barberhub)**: Sistema de gerenciamento para barbearias.
-    * *Stack:* React, TypeScript, Hooks customizados.
-* **[2Money](https://github.com/Eduard0-code/Trabalho-Interdisciplinar---Entrega-final---Em-GRUPO)**: Plataforma de gestão financeira colaborativa.
-    * *Destaque:* Autenticação, APIs REST, Gráficos dinâmicos (Charts.js) e metodologia Scrum.
-* **[Portfólio](https://eduard0-code.github.io/Portfolio/)**: Meu espaço pessoal.
+- **OpenShift AI e Ansible Automation**: certificação Red Hat
+- **Linux System Administration**: RH124/RH104
 
 ---
 
-### Vamos conversar?
-Estou sempre aberto a trocar ideias sobre tecnologia, automação e desenvolvimento.
+## Projetos em destaque
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-costa-silvaa/) | [E-mail](mailto:eduardocs0900@gmail.com)
+### [DMHub](https://github.com/Eduard0-hub/DMHub)
+
+Sistema web de gestão para barbearias, desenvolvido para centralizar agendamentos, operação do barbeiro e controle do negócio.
+
+- **Destaques:** cadastro, agendamentos, configurações e integração entre Front-End e Back-End
+- **Tecnologias:** JavaScript, CSS, Java, Shell, Docker e deploy com Vercel/Railway
+- **Documentação:** processos de negócio, especificação, modelagem, planejamento e indicadores
+
+### [WKList](https://github.com/Eduard0-code/barberhub)
+
+Sistema de gerenciamento para barbearias.
+
+- **Stack:** React, TypeScript e Hooks customizados
+
+### [2Money](https://github.com/Eduard0-code/Trabalho-Interdisciplinar---Entrega-final---Em-GRUPO)
+
+Plataforma de gestão financeira colaborativa.
+
+- **Destaques:** autenticação, APIs REST, gráficos dinâmicos com Chart.js e metodologia Scrum
+
+### [Portfólio](https://eduard0-code.github.io/Portfolio/)
+
+Meu espaço pessoal para apresentar projetos, experiências e conhecimentos.
+
+---
+
+## Vamos conversar?
+Estou aberto a trocar ideias sobre tecnologia, automação e desenvolvimento.
+
+[LinkedIn](https://www.linkedin.com/in/eduardo-costa-silvaa/) · [E-mail](mailto:eduardocs0900@gmail.com)
